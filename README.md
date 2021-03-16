@@ -15,3 +15,9 @@
 
 - ⚡ Fun fact: **I Am Noob**
 -->
+
+```python
+Name = "Dipanshu"
+who_i_am = ['Coding = ❣️']
+Age = "11"
+Country = "🇮🇳"
