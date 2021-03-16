@@ -2,11 +2,18 @@
 
 
 - 🔭 I’m currently working on <a href="https://github.com/LEGENDXOP/LEGEND-BOT">Legend Bot </a>
+
 - 🌱 I’m currently learning Python And Making Apps
+
 - 👯 I’m looking to collaborate on [LEGENDX](https://GitHub.com/LEGENDXOP)
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
