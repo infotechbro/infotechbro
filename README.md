@@ -17,7 +17,7 @@ Age = "11"
 Country = "🇮🇳"
 ```
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+<h4 align="left"><b>My GitHub Stats💛</b></h4>
 
 ![infotechbro Git Stats](https://github-readme-stats.vercel.app/api?username=infotechbro&include_all_commits=true&count_private=true&theme=highcontrast)
 
@@ -30,6 +30,6 @@ Country = "🇮🇳"
 <br />
 <br />
 
-<h3 align="center"><b> Top Used Languages </b></h3>
+<h3 align="left"><b> Top Used Languages </b></h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infotechbro&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infotechbro&layout=compact&theme=radical)
