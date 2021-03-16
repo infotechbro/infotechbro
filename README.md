@@ -19,7 +19,7 @@ Age = "11"
 Country = "🇮🇳"
 ```
 
-<h4 align="left"><b>My GitHub Stats💛</b></h4>
+<h3 align="left"><b>My GitHub Stats💛</b></h4>
 
 ![infotechbro Git Stats](https://github-readme-stats.vercel.app/api?username=infotechbro&include_all_commits=true&count_private=true&theme=highcontrast)
 
