@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Legend Bot
+- • 🔭 I’m currently working on Legend Bot
 - 🌱 I’m currently learning Python And Making Apps
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
