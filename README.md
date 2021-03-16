@@ -10,6 +10,8 @@
 - ⚡ Fun fact: **I Am Noob**
 -->
 
+<img src="https://komarev.com/ghpvc/?username=infotechbro&label=Profile%20Views&color=blueviolet&style=flat-square
+
 ```python
 Name = "Dipanshu"
 who_i_am = ['Coding = ❣️']
