@@ -31,4 +31,4 @@ Country = "🇮🇳"
 <br />
 
 <H3 align="center"><b> Top Used Languages </b></h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infotechbro&layout=compact&theme=radical)](https://github.com/infotechbro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infotechbro&layout=compact&theme=radical)](https://github.com/infotechbro)
