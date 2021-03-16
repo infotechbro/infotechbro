@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Dipanshu</h1>
 
 
-• 🔭 I’m currently working on [Legend Bot](github.com/LEGENDXOP/LEGEND-BOT) 
+• 🔭 I’m currently working on <a href="github.com/LEGENDXOP/LEGEND-BOT">Legend Bot </a>
 - 🌱 I’m currently learning Python And Making Apps
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
