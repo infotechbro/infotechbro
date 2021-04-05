@@ -7,10 +7,10 @@
 
 - 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ **[PʀᴏBᴏʏ](HTTPS://TELEGRAM.ME/PROBOYX)**
 
-- ⚡ Fun fact: **I Am Noob**
+- ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
 -->
 
-<img src="https://komarev.com/ghpvc/?username=infotechbro&label=Profile%20Views&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=infotechbro&label=Pʀᴏғɪʟᴇ%20Vɪᴇᴡs&color=blueviolet&style=flat-square" />
 
 ```python
 Name = "Dipanshu"
