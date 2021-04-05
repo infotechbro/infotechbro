@@ -3,7 +3,7 @@
 
 - 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://github.com/ULTRA-OP/ULTRA-X">UʟᴛʀᴀX Usᴇʀʙᴏᴛ </a>**
 
-- 🌱 I’m currently learning **Python And Making Apps**
+- 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ Mᴀᴋɪɴɢ Aᴘᴘs**
 
 - 🤔 I’m looking for help with **[PROBOY](HTTPS://TELEGRAM.ME/PROBOYX)**
 
