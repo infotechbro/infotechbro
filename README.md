@@ -5,7 +5,7 @@
 
 - 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ Mᴀᴋɪɴɢ Aᴘᴘs**
 
-- 🤔 I’m looking for help with **[PROBOY](HTTPS://TELEGRAM.ME/PROBOYX)**
+- 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ **[PʀᴏBᴏʏ](HTTPS://TELEGRAM.ME/PROBOYX)**
 
 - ⚡ Fun fact: **I Am Noob**
 -->
