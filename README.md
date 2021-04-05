@@ -8,15 +8,15 @@
 - 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ **[PʀᴏBᴏʏ](HTTPS://TELEGRAM.ME/PROBOYX)**
 
 - ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
--->
+
 
 <img src="https://komarev.com/ghpvc/?username=infotechbro&label=Pʀᴏғɪʟᴇ%20Vɪᴇᴡs&color=blueviolet&style=flat-square" />
 
 ```python
-Name = "Dipanshu"
-who_i_am = ['Coding = ❣️']
-Age = "11"
-Country = "🇮🇳"
+Nᴀᴍᴇ = "Dɪᴘᴀɴsʜᴜ"
+Wʜᴏ Aᴍ I = ['Cᴏᴅɪɴɢ = ❣️']
+Aɢᴇ = "11"
+Cᴏᴜɴᴛʀʏ = "🇮🇳"
 ```
 
 <h3 align="left"><b>My GitHub Stats💛</b></h4>
