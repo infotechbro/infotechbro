@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Alain</h1>
 
 
-- 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **[ᴀʟᴀɪɴx](t.me/AlainXRobot)ʙᴏᴛ & ᴅᴀɪsʏx ʙᴏᴛ**
+- 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **[Aʟᴀɪɴx](t.me/AlainXRobot) Bᴏᴛ & [Dᴀɪsʏx](t.me/TeamDaisyX) Bᴏᴛ**
 
 - 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ Mᴀᴋɪɴɢ Aᴘᴘs**
 
