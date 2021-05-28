@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Alain</h1>
 
 
-- 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://github.com/ULTRA-OP/ULTRA-X">UʟᴛʀᴀX Usᴇʀʙᴏᴛ </a>**
+- 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://github.com/ULTRA-OP/ULTRA-X">ᴀʟᴀɪɴx ʙᴏᴛ & ᴅᴀɪsʏx ʙᴏᴛ </a>**
 
 - 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ Mᴀᴋɪɴɢ Aᴘᴘs**
 
