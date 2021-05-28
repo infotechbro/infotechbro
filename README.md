@@ -5,7 +5,7 @@
 
 - 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ Mᴀᴋɪɴɢ Aᴘᴘs**
 
-- 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ **[PʀᴏBᴏʏ](HTTPS://TELEGRAM.ME/PROBOYX)**
+- 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ **[ʀᴏsᴇʟᴏᴠᴇʀX](HTTPS://TELEGRAM.ME/PROBOYX)**
 
 - ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
 
