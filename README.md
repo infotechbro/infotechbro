@@ -23,9 +23,9 @@ Country = "🇮🇳"
 
 ![infotechbro Git Stats](https://github-readme-stats.vercel.app/api?username=infotechbro&include_all_commits=true&count_private=true&theme=highcontrast)
 
+
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ### Languages and Tools I Love❤️
