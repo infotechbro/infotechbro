@@ -13,10 +13,10 @@
 <img src="https://komarev.com/ghpvc/?username=infotechbro&label=Pʀᴏғɪʟᴇ%20Vɪᴇᴡs&color=blueviolet&style=flat-square" />
 
 ```python
-Nᴀᴍᴇ = "Dɪᴘᴀɴsʜᴜ"
-Wʜᴏ Aᴍ I = ['Cᴏᴅɪɴɢ = ❣️']
-Aɢᴇ = "11"
-Cᴏᴜɴᴛʀʏ = "🇮🇳"
+Name = "Alain"
+Who I Am = ['Coding = ❣️']
+Age = "11"
+Country = "🇮🇳"
 ```
 
 ## 📊 Stats
