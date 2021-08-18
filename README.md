@@ -23,6 +23,10 @@ Country = "🇮🇳"
 
 ![infotechbro Git Stats](https://github-readme-stats.vercel.app/api?username=infotechbro&include_all_commits=true&count_private=true&theme=highcontrast)
 
+## 💻 Latest Activities
+
+<!--START_SECTION:activity-->
+
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
