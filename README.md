@@ -8,8 +8,6 @@
 - **⚡ Fun Fact I'm Noob...**
 
 
-<img src="https://komarev.com/ghpvc/?username=infotechbro&label=Pʀᴏғɪʟᴇ%20Vɪᴇᴡs&color=blueviolet&style=flat-square" />
-
 ```python
 Name = "Alain"
 Who I Am = ['Coding = ❣️']
