@@ -13,7 +13,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: xditya
+          user: infotechbro
           template: classic
           base: activity, community, repositories
           config_timezone: Asia/Calcutta
