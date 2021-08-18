@@ -3,7 +3,7 @@
 
 - **💫 I’m currently working on [DaisyX](https://github.com/TeamDaisyX/DaisyX)**
 
-- **🌱 Currently Learning Python
+- **🌱 Currently Learning Python**
 
 - **⚡ Fun Fact I'm Noob...**
 
