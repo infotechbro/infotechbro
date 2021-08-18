@@ -26,6 +26,8 @@ Country = "🇮🇳"
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/BotzCity/ChannelFTR/issues/1) in [BotzCity/ChannelFTR](https://github.com/BotzCity/ChannelFTR)
+2. ❌ Closed PR [#1](https://github.com/BotzCity/ChannelFTR/pull/1) in [BotzCity/ChannelFTR](https://github.com/BotzCity/ChannelFTR)
 <!--END_SECTION:activity-->
 
 </br>
