@@ -1,13 +1,11 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Alain](https://t.me/Alain_xD) | [![Profile views](https://komarev.com/ghpvc/?username=infotechbro&label=Profile%20views)](https://github.com/infotechbro)
 
 
-- 🔭 **💫 I’m currently working on [DaisyX](https://github.com/TeamDaisyX/DaisyX)**
+- **💫 I’m currently working on [DaisyX](https://github.com/TeamDaisyX/DaisyX)**
 
-- 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ Mᴀᴋɪɴɢ Aᴘᴘs**
+- **🌱 Currently Learning Python
 
-- 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ **[ʀᴏsᴇʟᴏᴠᴇʀX](HTTPS://TELEGRAM.ME/PROBOYX)**
-
-- ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
+- **⚡ Fun Fact I'm Noob...**
 
 
 <img src="https://komarev.com/ghpvc/?username=infotechbro&label=Pʀᴏғɪʟᴇ%20Vɪᴇᴡs&color=blueviolet&style=flat-square" />
