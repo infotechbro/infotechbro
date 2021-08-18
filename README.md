@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Alain</h1>
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Alain](https://t.me/Alain_xD) | [![Profile views](https://komarev.com/ghpvc/?username=infotechbro&label=Profile%20views)](https://github.com/infotechbro)
 
 
 - 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **[Aʟᴀɪɴx](t.me/AlainXRobot) Bᴏᴛ & [Dᴀɪsʏx](t.me/TeamDaisyX) Bᴏᴛ**
